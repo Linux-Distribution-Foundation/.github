@@ -19,7 +19,7 @@ The **Linux Distribution Foundation (LDF)** is a community-driven organization d
 
 ## Active Project
 
-### **DLD Linux** — *Flagship Distribution*
+### **DLD Linux**
 
 A Snap-free, developer-oriented Ubuntu-based Linux distribution that provides:
 
