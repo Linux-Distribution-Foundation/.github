@@ -3,79 +3,137 @@
 ![Foundation Status](https://img.shields.io/badge/Foundation-Active-brightgreen)
 ![Projects](https://img.shields.io/badge/Projects-1-blue)
 ![Focus](https://img.shields.io/badge/Focus-Desktop%20Linux-orange)
+![License](https://img.shields.io/badge/Org%20License-Open%20Source-lightgrey)
+![Security Policy](https://img.shields.io/badge/Security-Policy-informational)
+![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Enforced-blue)
+![Contributing](https://img.shields.io/badge/Contributions-Welcome-success)
 
-The **Linux Distribution Foundation (LDF)** is a community-driven organization dedicated to producing transparent, user-respecting, and upstream-aligned desktop Linux distributions. Our development philosophy prioritizes technical clarity, openness, and the preservation of user control.
+The **Linux Distribution Foundation (LDF)** is a community-driven organization dedicated to producing transparent, maintainable, and user-respecting desktop Linux distributions. Our work emphasizes upstream alignment, technical clarity, and responsible open-source development.
 
 ---
 
-## Our Mission
+## Mission
 
-- Advance the creation of reliable and maintainable desktop Linux distributions  
-- Support upstream compatibility and vendor-neutral ecosystem design  
-- Promote open development practices and transparent decision-making  
-- Empower users and developers through accessible, well-documented systems
+LDF is committed to:
+
+- Producing reliable desktop Linux distributions  
+- Maintaining upstream compatibility and vendor neutrality  
+- Ensuring transparent and open development practices  
+- Supporting contributors through clear guidelines  
+- Preserving user autonomy, privacy, and system control  
 
 ---
 
 ## Active Project
 
-### **DLD Linux**
+### DLD Linux
 
-A Snap-free, developer-oriented Ubuntu-based Linux distribution that provides:
+A developer-focused Ubuntu-based Linux distribution that provides:
 
 - Clean Ubuntu compatibility  
-- No vendor lock-in or subscription prompts  
+- A Snap-free environment  
+- No subscription prompts or vendor lock-in  
 - Upstream, unmodified desktop environments  
-- A predictable and user-controlled system  
 
 Repository:  
-**https://github.com/Linux-Distribution-Foundation/DLD-Linux**
+https://github.com/Linux-Distribution-Foundation/DLD-Linux
 
 ---
 
-## Contributing to LDF
+## Contributing
 
-Contributions of all types—documentation, packaging, testing, development—are welcomed.
+We welcome contributions of all kinds, including development, testing, packaging, and documentation.
 
-See the organization-wide guidelines here:
+Before contributing, please review:
 
-- [`CONTRIBUTING.md`](../CONTRIBUTING.md)
-- [`CODE_OF_CONDUCT.md`](../CODE_OF_CONDUCT.md)
+- `CONTRIBUTING.md`  
+- `CODE_OF_CONDUCT.md`
 
-Individual projects may define additional requirements.
+Individual repositories may define additional project-specific requirements.
 
 ---
 
 ## Governance
 
-The Linux Distribution Foundation operates through:
+The Foundation operates through:
 
-- Transparent public repositories  
-- Open issue discussions  
+- Transparent, public repositories  
+- Open Discussions  
 - Community participation  
-- Maintainer oversight for technical quality, licensing compliance, and release stability  
+- Maintainer oversight for technical quality, licensing, and release stability  
 
-Formal governance documents may be introduced as the organization expands.
+Additional governance documents may be introduced as the foundation grows.
 
 ---
 
 ## Legal & Licensing
 
-The LDF supports only **open-source projects**, each under their respective licenses.
+The Linux Distribution Foundation follows strict open-source compliance:
 
-- Documentation and contributions submitted to LDF repositories must be open-licensed.  
-- Individual project licenses (e.g., GPL-3.0 for DLD Linux) apply per repository.  
-- The Tux logo is used with required attribution:  
-  **“Tux by lewing@isc.tamu.edu”**
+- Each repository defines its own license  
+- Contributions must use compatible open-source licenses  
+- Contributors agree to the repository license upon submitting contributions  
+- No proprietary or closed-source code is accepted  
 
-The Foundation does not provide warranties or guarantees for its software.
+DLD Linux uses GPL-3.0 unless otherwise stated.
+
+### Trademark & Attribution
+
+- LDF does not claim ownership over upstream project trademarks or branding  
+- Tux is used with attribution:  
+  **"Tux by lewing@isc.tamu.edu"**
+
+### Warranty Disclaimer
+
+All LDF software is provided **“AS IS”**, with:
+
+- No warranties  
+- No guarantees of fitness or security  
+- No liability for damages, malfunctions, or data loss  
+
+This aligns with common open-source license terms.
+
+---
+
+## Security Policy
+
+Security issues must be reported through each repository’s `SECURITY.md`.
+
+Do not publicly disclose vulnerabilities until responsible reporting procedures have been completed.
+
+---
+
+## Content Standards & Moderation
+
+All community interaction must follow:
+
+- `CODE_OF_CONDUCT.md`  
+- GitHub Community Guidelines  
+
+Harassment, discriminatory behavior, or disruptive activity will not be tolerated.
+
+---
+
+## Scope of Work
+
+LDF focuses on:
+
+- Desktop Linux distribution development  
+- Packaging, integration, and documentation  
+- Creating upstream-aligned systems
+
+LDF does **not** engage in:
+
+- Commercial support  
+- Proprietary development  
+- Hosting external copyrighted content  
+- Non-desktop Linux initiatives  
 
 ---
 
 ## Contact
 
-The Foundation does not currently maintain an official contact address.  
-All communication and coordination occur through:
+The Foundation does not currently maintain an official public contact address.  
+All communication and collaboration occur through:
 
-**https://github.com/Linux-Distribution-Foundation**
-
+https://github.com/Linux-Distribution-Foundation
