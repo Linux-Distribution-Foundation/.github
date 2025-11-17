@@ -97,7 +97,11 @@ This aligns with common open-source license terms.
 
 ## Security Policy
 
-Security issues must be reported through each repository’s `SECURITY.md`.
+Security issues must be reported privately to:
+
+**linuxdistributionfoundation@proton.me**
+
+Each repository’s `SECURITY.md` defines additional reporting steps.
 
 Do not publicly disclose vulnerabilities until responsible reporting procedures have been completed.
 
@@ -133,7 +137,10 @@ LDF does **not** engage in:
 
 ## Contact
 
-The Foundation does not currently maintain an official public contact address.  
-All communication and collaboration occur through:
+LDF's primary and only contact address:
+
+**linuxdistributionfoundation@proton.me**
+
+Project discussions and collaboration occur through:
 
 https://github.com/Linux-Distribution-Foundation
