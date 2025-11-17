@@ -1,12 +1,9 @@
 # Linux Distribution Foundation (LDF)
 
 ![Foundation Status](https://img.shields.io/badge/Foundation-Active-brightgreen)
-![Projects](https://img.shields.io/badge/Projects-1-blue)
-![Focus](https://img.shields.io/badge/Focus-Desktop%20Linux-orange)
-![License](https://img.shields.io/badge/Org%20License-Open%20Source-lightgrey)
 ![Security Policy](https://img.shields.io/badge/Security-Policy-informational)
 ![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Enforced-blue)
-![Contributing](https://img.shields.io/badge/Contributions-Welcome-success)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-success)
 
 The **Linux Distribution Foundation (LDF)** is a community-driven organization dedicated to producing transparent, maintainable, and user-respecting desktop Linux distributions. Our work emphasizes upstream alignment, technical clarity, and responsible open-source development.
 
@@ -137,7 +134,7 @@ LDF does **not** engage in:
 
 ## Contact
 
-LDF's primary and only contact address:
+LDF’s primary and only contact address:
 
 **linuxdistributionfoundation@proton.me**
 
